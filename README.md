@@ -1,3 +1,5 @@
+## NO LONGER MAINTAINED ##
+
 # Firebased
 
 A ruby gem to deploy and manage Firebase instances programaticaly. Based off of [firebase-admin](https://github.com/casetext/firebase-admin) by [casetext](https://github.com/casetext).
